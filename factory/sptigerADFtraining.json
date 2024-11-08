@@ -1,0 +1,9 @@
+{
+	"name": "sptigerADFtraining",
+	"location": "koreacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3189bb7c-d19f-47db-85ca-317b58f1e865",
+		"tenantId": "01e9355b-579b-415e-8731-b91959560f24"
+	}
+}
