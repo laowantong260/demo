@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "sptigerADFtraining"
+		},
+		"AzureDatabricksDeltaLake1_accessToken": {
+			"value": ""
+		},
+		"GoogleBigQueryTest_keyFileContent": {
+			"value": ""
+		},
+		"GitHub1_credential": {
+			"value": ""
+		},
+		"GitHub1_properties_typeProperties_username": {
+			"value": "chunho-kim"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
